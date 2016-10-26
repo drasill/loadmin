@@ -18,7 +18,7 @@ once it goes under 10.
 
 
 ```sh
-git clone ...
+git clone https://github.com/drasill/loadmin.git
 cd loadmin
 make
 # Install into /usr/local/bin/loadmin
